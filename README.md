@@ -1,3 +1,7 @@
+
+
+
+
 <h1 align="center">Oi 👋, Eu sou Dayse Yanne</h1>
 <h3 align="center">Apaixonada por Ensino, Pesquisa , Acessibilidade, Análise e Ciência de Dados</h3>
 
@@ -5,11 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayseyannecss&label=Profile%20views&color=0e75b6&style=flat" alt="dayseyannecss" /> </p>
 
+- 🔭 Eu atualmente trabalho como **Analista Administrativo Pleno**
+
+- 👯 Estou buscando aperfeiçoar meus conhecimentos em **DevOps, Python**
+
 - 📫 Contato **daysecaldas0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dayse yanne caldas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dayse yanne caldas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dayse-yanne-caldas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dayse-yanne-caldas/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
