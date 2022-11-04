@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayseyannecss&label=Profile%20views&color=0e75b6&style=flat" alt="dayseyannecss" /> </p>
 
-- 🔭 Eu atualmente trabalho como **Analista Administrativo Pleno**
+- 🔭 Eu atualmente trabalho como **Analista de Tecnologia da Informaç**
 
-- 👯 Estou buscando aperfeiçoar meus conhecimentos em **DevOps, Python**
+- 👯 Estou buscando aperfeiçoar meus conhecimentos em **DevOps, Python, Django, Machine Learning...**
 
 - 📫 Contato **daysecaldas0@gmail.com**
 
